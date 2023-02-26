@@ -8,7 +8,7 @@ export const defaultUser: LocalGithubUser = {
   company: '',
   blog: 'https://www.linkedin.com/in/blckvia/',
   location: '',
-  bio: '',
+  bio: 'Fullstack Software Developer',
   twitter: 'blckvia',
   repos: 32,
   followers: 0,
